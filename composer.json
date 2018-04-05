@@ -1,12 +1,14 @@
 {
   "name": "raychars/framework",
   "description": "a simple framework base on laravel & thinkphp5 by raychars",
+  "license": "MIT",
   "authors": [
     {
       "name": "qiandutianxia",
       "email": "852997402@qq.com"
     }
   ],
+  "minimum-stability": "dev",
   "require": {},
   "autoload": {
     "psr-4": {
