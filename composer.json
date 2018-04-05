@@ -1,0 +1,17 @@
+{
+  "name": "raychars/framework",
+  "description": "a simple framework base on laravel & thinkphp5 by raychars",
+  "authors": [
+    {
+      "name": "qiandutianxia",
+      "email": "852997402@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Raychars\\": "src/"
+    }
+  }
+}
+
